@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/candidate-app/static/css/main.c4c7769b.chunk.css",
+    "main.js": "/candidate-app/static/js/main.99b5d3dd.chunk.js",
+    "main.js.map": "/candidate-app/static/js/main.99b5d3dd.chunk.js.map",
+    "runtime-main.js": "/candidate-app/static/js/runtime-main.16dbcce2.js",
+    "runtime-main.js.map": "/candidate-app/static/js/runtime-main.16dbcce2.js.map",
+    "static/css/2.36020323.chunk.css": "/candidate-app/static/css/2.36020323.chunk.css",
+    "static/js/2.12718c00.chunk.js": "/candidate-app/static/js/2.12718c00.chunk.js",
+    "static/js/2.12718c00.chunk.js.map": "/candidate-app/static/js/2.12718c00.chunk.js.map",
+    "index.html": "/candidate-app/index.html",
+    "precache-manifest.3dca54449fd64ad46f1c9ccdc4f08cb7.js": "/candidate-app/precache-manifest.3dca54449fd64ad46f1c9ccdc4f08cb7.js",
+    "service-worker.js": "/candidate-app/service-worker.js",
+    "static/css/2.36020323.chunk.css.map": "/candidate-app/static/css/2.36020323.chunk.css.map",
+    "static/css/main.c4c7769b.chunk.css.map": "/candidate-app/static/css/main.c4c7769b.chunk.css.map",
+    "static/js/2.12718c00.chunk.js.LICENSE.txt": "/candidate-app/static/js/2.12718c00.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16dbcce2.js",
+    "static/css/2.36020323.chunk.css",
+    "static/js/2.12718c00.chunk.js",
+    "static/css/main.c4c7769b.chunk.css",
+    "static/js/main.99b5d3dd.chunk.js"
+  ]
+}
