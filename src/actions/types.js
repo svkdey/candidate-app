@@ -1,0 +1,8 @@
+export const GET_APPLICATIONS = 'GET_APPLICATIONS';
+export const ADD_APPLICATION = 'ADD_APPLICATION';
+
+export const SET_CURRENT = 'SET_CURRENT';
+export const CLEAR_CURRENT = 'CLEAR_CURRENT';
+
+export const SET_LOADING = 'SET_LOADING';
+export const ERROR = 'LOGS_ERROR';

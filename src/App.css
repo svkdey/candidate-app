@@ -1,0 +1,117 @@
+
+.heading{
+    text-align: center;
+    margin: 0 1rem 1.5rem 1rem;
+    text-decoration: underline;
+    font-weight: 600;
+    }
+    .scroller {
+        overflow: auto;
+        height: 100vh;
+      }
+      ::-webkit-scrollbar {
+        width: 5px;
+        border-radius: 5px;
+        background-color: #a6a6a6;
+      }
+      ::-webkit-scrollbar-thumb {
+        border-radius: 5px;
+        background-color: #a6a6a6;
+        box-shadow: inset 0 0 6px rgba(0, 0, 0, 1);
+      }
+      ::-webkit-scrollbar-track {
+        border-radius: 20px;
+        background-color: white;
+      }
+      .card-margin{
+        margin: .5rem .5rem .5rem .5rem;
+    }
+    .dark{
+        color: black; 
+    }
+    .dark2{
+        color: grey;
+        font-size:.9rem;
+    }
+    .APPLIED{
+        color: orange;
+    }
+    .IN{
+        color: blue;
+    }
+    .COMPLETE{
+        color:red
+    }
+    .header{
+        font-weight: 800;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    .text-decor{
+        text-align: right;
+        font-weight: 700;
+    }
+    .summaryContainer{
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        justify-content: space-evenly;
+    }
+    .sub-summaryContainer{
+        
+        width: 50%;
+    }
+    .success{
+        color: red;
+    }
+    .ok{
+        color:orange
+    }
+    .alert{
+        color:grey
+    }
+@media all and (min-width: 1001px) {
+    .wrapper-container{
+        display: flex;
+        flex-direction: row !important;
+        justify-content: space-evenly;
+    }
+    .main-container-left{
+        /* height: 15rem !important; */
+        width: 30%;
+        display: flex;
+        flex-direction: column !important;
+        justify-content: space-evenly;
+    }
+    .sub-container-left{
+        width: 100%;
+    }
+    .main-container-right{
+        width: 70%;
+        display: flex;
+        flex-direction: column !important;
+        justify-content: space-evenly;
+    }
+    .wrapper-right{
+        width: 90%;
+        margin: 1rem;
+    }
+   
+  }
+  
+  @media all and (max-width: 1000px) and (min-width: 700px) {
+    .main-container{
+        height: 100%;
+        flex-direction: column;
+    
+    }
+    
+  }
+  
+  @media all and (max-width: 699px) and (min-width: 520px), (min-width: 1151px) {
+    .main-container{
+        height: 100%;
+        flex-direction: column;
+    
+    }
+    
+  }
